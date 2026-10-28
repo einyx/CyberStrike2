@@ -27,3 +27,5 @@ export {
   AgentPerformanceTable,
   ValidationViolationTable,
 } from "../methodology/methodology.sql"
+export { PermissionSavedTable } from "../permission/saved.sql"
+export { SessionLogTable, SessionInstructionTable } from "../session/session-log.sql"
